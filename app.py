@@ -53,5 +53,5 @@ kpi3.metric("🕒 Último mantenimiento", "89 días", "↑")
 # Footer
 st.markdown("""
 ---
-Demo desarrollada con [Streamlit](https://streamlit.io/) | Repositorio: [GitHub - AeroPredict](https://github.com/tuusuario/aeropredict-demo)
+Demo desarrollada con [Streamlit](https://streamlit.io/) | Repositorio: [GitHub - AeroPredict](https://github.com/jfamames/aeropredict-demo)
 """)
